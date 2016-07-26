@@ -12,10 +12,10 @@ return [
   | on sites such as Facebook and Twitter.
   |
   */
-  'title'           => 'Canvas',
-  'subtitle'        => 'Minimal Blogging App',
-  'description'     => 'Blog',
-  'author'          => 'Todd Austin',
+  'title'           => 'Ferreira',
+  'subtitle'        => 'Matheus',
+  'description'     => 'Blog sobre desenvolvimento em geral',
+  'author'          => 'Matheus Ferreira',
 
   /*
   |--------------------------------------------------------------------------
@@ -27,7 +27,7 @@ return [
   | identifier here or in your .env
   |
   */
-  'posts_per_page'  => 6,
+  'posts_per_page'  => 5,
   'disqus_name' => env('DISQUS_NAME', null),
 
   /*
